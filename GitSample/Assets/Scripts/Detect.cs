@@ -4,5 +4,8 @@ using UnityEngine;
 
 public class Detect : MonoBehaviour
 {
-
+    private void OnTriggerEnter(Collider other)
+    {
+        
+    }
 }
